@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kohsuke:windows-package-checker:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/windows-package-checker/1.2/86b5d2f9023633808d65dbcfdfd50dc5ad3ca31f/windows-package-checker-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kohsuke/windows-package-checker/1.2/952cd02a3e24f9702197ceacaef0d4f8d9fda464/windows-package-checker-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

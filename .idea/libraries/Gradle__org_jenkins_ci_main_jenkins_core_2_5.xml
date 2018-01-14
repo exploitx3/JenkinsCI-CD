@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.main:jenkins-core:2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.main/jenkins-core/2.5/adc625369eeba49f8cacfc33759749b26f2c4ba6/jenkins-core-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.main/jenkins-core/2.5/f405c238eb20ee187d63718b6792602560ccf83b/jenkins-core-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

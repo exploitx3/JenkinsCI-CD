@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.main:jenkins-war:war-for-test:2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.main/jenkins-war/2.5/5e669825a955c9091ac8a858f4f6dcae782f3d87/jenkins-war-2.5-war-for-test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

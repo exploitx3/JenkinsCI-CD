@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci:symbol-annotation:1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci/symbol-annotation/1.9/26c2a2f64943575c51659c54f26dfa8ebee7213b/symbol-annotation-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci/symbol-annotation/1.9/8b37f1d2081cc3e3bb190eef02b0d00c54a326c3/symbol-annotation-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

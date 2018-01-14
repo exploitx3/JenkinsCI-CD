@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:script-security:hpi:1.25">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/script-security/1.25/422588a8ed5e9495acbaf21b33c218295920efcd/script-security-1.25.hpi" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/script-security/1.25/35c5d33439e3060671237ab26290c14f3035c8d1/script-security-1.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

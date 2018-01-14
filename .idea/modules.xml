@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JenkinsCI-CD.iml" filepath="$PROJECT_DIR$/.idea/modules/JenkinsCI-CD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JenkinsCI-CD_jobs.iml" filepath="$PROJECT_DIR$/.idea/modules/JenkinsCI-CD_jobs.iml" group="JenkinsCI-CD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JenkinsCI-CD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JenkinsCI-CD_main.iml" group="JenkinsCI-CD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JenkinsCI-CD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JenkinsCI-CD_test.iml" group="JenkinsCI-CD" />
+    </modules>
+  </component>
+</project>

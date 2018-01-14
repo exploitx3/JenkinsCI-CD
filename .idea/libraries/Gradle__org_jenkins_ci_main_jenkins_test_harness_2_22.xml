@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.main:jenkins-test-harness:2.22">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.main/jenkins-test-harness/2.22/80ff902e62ba1325db2146b2969c017c2a852050/jenkins-test-harness-2.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.main/jenkins-test-harness/2.22/33e2141449c9d04811806e23ff7361fbf8710079/jenkins-test-harness-2.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

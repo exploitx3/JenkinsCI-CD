@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:job-dsl-core:1.66">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/job-dsl-core/1.66/e4255f05690896ef4962faaca6940e9a2dc5b3c8/job-dsl-core-1.66.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/job-dsl-core/1.66/1a5151f34ab8750a25e2944764ffb5e0505a4af6/job-dsl-core-1.66-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

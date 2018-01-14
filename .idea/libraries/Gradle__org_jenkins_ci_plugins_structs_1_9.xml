@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci.plugins:structs:1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/structs/1.9/a8a1974c318b112e8de87879ff41e9858547884b/structs-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci.plugins/structs/1.9/9199f35960511d227b66a0f56ee3d773c18de4d6/structs-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
